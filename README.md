@@ -9,7 +9,7 @@ The dashboard analyzes supplier risk, shipment delays, carrier performance, inve
 
 ## Live Dashboard
 
-View the interactive Tableau dashboard here: [AI Supply Chain Control Tower Dashboard] <https://public.tableau.com/views/AISupplyChainControlTowerTableauProject/AIControlTowerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link> 
+View the interactive Tableau dashboard here: <https://public.tableau.com/views/AISupplyChainControlTowerTableauProject/AIControlTowerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link> 
 
 ## Tools Used
 
