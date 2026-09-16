@@ -5,9 +5,8 @@ This project is a Tableau dashboard that uses synthetic supply chain data to sim
 The dashboard analyzes supplier risk, shipment delays, carrier performance, inventory exposure, estimated delay cost, and recommended operational actions. It was inspired by emerging enterprise supply chain AI workflows involving decision intelligence, ERP automation, digital twins, TMS automation, and logistics inbox automation.
 
 ## Dashboard Preview
-
-![Dashboard Preview](<img width="1365" height="765" alt="Screenshot 2026-09-16 141227" src="https://github.com/user-attachments/assets/31d30837-8471-4081-8dc3-600e0e801e2a" />
-)
+<img width="1365" height="765" alt="Screenshot 2026-09-16 141227" src="https://github.com/user-attachments/assets/01c349e3-ac23-4ce4-a7b9-b4228c1b270e" />
+![Dashboard Preview]
 
 ## Tools Used
 
