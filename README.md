@@ -6,7 +6,6 @@ The dashboard analyzes supplier risk, shipment delays, carrier performance, inve
 
 ## Dashboard Preview
 <img width="1365" height="765" alt="Screenshot 2026-09-16 141227" src="https://github.com/user-attachments/assets/01c349e3-ac23-4ce4-a7b9-b4228c1b270e" />
-![Dashboard Preview]
 
 ## Tools Used
 
